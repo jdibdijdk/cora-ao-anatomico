@@ -1,0 +1,93 @@
+{
+ "disclaimer": "<b>Manejo pendente de conferência.</b> A Diretriz Brasileira de Valvopatias da SBC (Arq Bras Cardiol 2020;115(4):720-775, e a atualização mais recente) não pôde ser lida neste ambiente: a rede bloqueou SciELO e PMC. Por isso o texto de manejo acima é um resumo didático do conteúdo geral das diretrizes de valvopatias, <b>sem classes de recomendação nem níveis de evidência</b>. Confira cada conduta no texto da SBC antes de usar. Material educacional; não substitui a avaliação clínica.",
+ "cases": {
+  "normal": {
+   "button": "Normal",
+   "physio": [
+    "O <b>átrio esquerdo</b> recebe o sangue das veias pulmonares. Na diástole a <b>valva mitral</b> (bicúspide, com cordas tendíneas e músculos papilares) abre e o ventrículo enche, com o último impulso vindo da contração atrial.",
+    "Na sístole o <b>ventrículo esquerdo</b> contrai e o volume diminui. A mitral fecha, a pressão do VE sobe, supera a da aorta e a <b>valva aórtica</b> (tricúspide, com os seios de Valsalva de onde saem as coronárias) abre.",
+    "Duas válvulas normais abrem de forma ampla (gradientes mínimos) e fecham de forma estanque: o fluxo só anda para frente."
+   ],
+   "criteria": [
+    "Área valvar aórtica normal: cerca de 3 a 4 cm².",
+    "Área valvar mitral normal: cerca de 4 a 6 cm².",
+    "Aorta em torno de 120/80 mmHg; pressão do átrio esquerdo média de 5 a 12 mmHg."
+   ],
+   "management": [
+    "Sem lesão valvar não há intervenção. Escolha uma das valvopatias acima para ver o que muda no fluxo e nas pressões."
+   ]
+  },
+  "ea": {
+   "button": "Estenose aórtica",
+   "physio": [
+    "A valva não abre por completo (cúspides espessadas e calcificadas). O ventrículo precisa gerar uma pressão muito maior que a da aorta para ejetar o mesmo volume: aparece um <b>gradiente sistólico</b> entre VE e aorta, com jato rápido e turbulento.",
+    "A sobrecarga de pressão causa <b>hipertrofia concêntrica</b> (lei de Laplace: a parede engrossa para normalizar o estresse). O ventrículo fica rígido, com disfunção diastólica, maior consumo de O₂ e menor perfusão coronária.",
+    "Clínica clássica: <b>angina, síncope e dispneia</b> (insuficiência cardíaca). Causas: degenerativa calcífica (idosos), bicúspide (mais jovens) e reumática."
+   ],
+   "criteria": [
+    "Grave: velocidade máxima ≥ 4 m/s, gradiente médio ≥ 40 mmHg e área valvar ≤ 1,0 cm² (≤ 0,6 cm²/m²).",
+    "No modelo: área de 0,9 cm², pressão do VE acima de 200 mmHg e aorta pouco acima de 100."
+   ],
+   "management": [
+    "Não existe tratamento clínico que mude a história natural da lesão.",
+    "<b>Sintomático e grave:</b> intervenção, por troca valvar cirúrgica ou implante valvar transcateter (TAVI), decidida pelo Heart Team conforme idade, risco cirúrgico e anatomia.",
+    "<b>Assintomático e grave:</b> acompanhamento ecocardiográfico regular; considerar intervenção se houver disfunção do VE (FEVE < 50%) ou outros marcadores de risco.",
+    "Evitar esforço intenso e vasodilatadores potentes; tratar a hipertensão com cautela."
+   ]
+  },
+  "ia": {
+   "button": "Insuficiência aórtica",
+   "physio": [
+    "A valva não fecha: na diástole parte do sangue <b>volta da aorta para o ventrículo</b> (jato regurgitante, em laranja no modo fluxo).",
+    "O VE recebe o volume normal mais o regurgitado: <b>dilatação com hipertrofia excêntrica</b>. O volume sistólico total aumenta, mas parte dele volta; a pressão diastólica da aorta cai e a <b>pressão de pulso fica ampla</b> (sinais periféricos: Corrigan, Musset, Quincke).",
+    "Na forma <b>aguda</b> (endocardite, dissecção) o VE não tem tempo de dilatar: edema agudo de pulmão e choque. Na crônica, a descompensação tarda, mas a disfunção do VE pode ser silenciosa."
+   ],
+   "criteria": [
+    "Grave: orifício regurgitante efetivo ≥ 0,30 cm², volume regurgitante ≥ 60 mL/batimento, fração regurgitante ≥ 50%, vena contracta > 6 mm.",
+    "No modelo: ORE 0,35 cm², fração regurgitante de cerca de 50%, diástole da aorta em torno de 45 mmHg e VE com mais de 250 mL no fim da diástole."
+   ],
+   "management": [
+    "<b>Aguda grave:</b> emergência cirúrgica; balão intra-aórtico é contraindicado.",
+    "<b>Crônica sintomática grave:</b> troca valvar (ou plastia, ou cirurgia da raiz, conforme a causa).",
+    "<b>Assintomática grave:</b> cirurgia se houver disfunção do VE (FEVE ≤ 50–55%) ou dilatação importante (diâmetro sistólico > 50 mm), conforme os critérios da diretriz.",
+    "Vasodilatadores (IECA, nifedipina) ajudam em hipertensos ou como ponte, sem substituir a cirurgia; investigar e tratar a etiologia, incluindo aortopatia."
+   ]
+  },
+  "em": {
+   "button": "Estenose mitral",
+   "physio": [
+    "A valva (quase sempre <b>reumática</b>: fusão de comissuras, espessamento e encurtamento das cordas) abre pouco, em forma de cúpula. O sangue passa por um orifício estreito: surge <b>gradiente diastólico entre átrio e ventrículo</b>.",
+    "A pressão do átrio sobe e se transmite às veias e capilares pulmonares: <b>congestão, dispneia</b> e hipertensão pulmonar. O átrio dilata, e surgem <b>fibrilação atrial</b> e risco de trombo e embolia.",
+    "Taquicardia, esforço e gestação encurtam a diástole e aumentam o gradiente; por isso os sintomas pioram. O ventrículo esquerdo, em geral, está pouco enchido, mas normal."
+   ],
+   "criteria": [
+    "Grave: área valvar ≤ 1,5 cm² (muito grave ≤ 1,0 cm²), gradiente médio ≥ 10 mmHg com FC de 60 a 80 bpm.",
+    "No modelo: área de 0,9 cm², átrio acima de 20 mmHg e gradiente médio acima de 10 mmHg."
+   ],
+   "management": [
+    "Profilaxia secundária da febre reumática (penicilina benzatina), diuréticos para a congestão e controle da frequência cardíaca (betabloqueador, verapamil ou diltiazem).",
+    "<b>Anticoagulação</b> se houver fibrilação atrial, trombo ou embolia prévia; na estenose mitral reumática moderada a grave usa-se antagonista da vitamina K (RNI 2–3), não anticoagulante direto.",
+    "<b>Valvuloplastia mitral por cateter-balão</b> em sintomáticos com área ≤ 1,5 cm² e anatomia favorável (escore de Wilkins ≤ 8), sem trombo no átrio e sem insuficiência mitral moderada a grave.",
+    "Anatomia desfavorável ou insuficiência associada importante: troca valvar cirúrgica."
+   ]
+  },
+  "im": {
+   "button": "Insuficiência mitral",
+   "physio": [
+    "Na sístole parte do volume do ventrículo <b>volta para o átrio</b> (jato regurgitante, em laranja no modo fluxo). O volume ejetado para a aorta cai, enquanto o ventrículo bombeia mais.",
+    "Átrio e ventrículo sofrem <b>sobrecarga de volume</b> e dilatam. A ejeção para um átrio de baixa pressão faz a fração de ejeção parecer boa: <b>FEVE abaixo de 60% já sugere disfunção</b>. O átrio dilatado favorece a fibrilação atrial e a hipertensão pulmonar.",
+    "<b>Primária</b>: lesão do aparelho valvar (prolapso, ruptura de cordas, reumática, endocardite). <b>Secundária</b> (funcional): o ventrículo ou o anel dilatados impedem a coaptação, como na miocardiopatia dilatada e na isquemia."
+   ],
+   "criteria": [
+    "Grave: ORE ≥ 0,40 cm², volume regurgitante ≥ 60 mL/batimento, fração regurgitante ≥ 50%, vena contracta ≥ 7 mm.",
+    "No modelo: ORE 0,6 cm², fração regurgitante de cerca de 45%, fração de ejeção de cerca de 70% e pressão do átrio com picos acima de 30 mmHg."
+   ],
+   "management": [
+    "<b>Primária grave sintomática:</b> cirurgia, com preferência pela plastia quando viável.",
+    "<b>Primária grave assintomática:</b> cirurgia se a FEVE for ≤ 60% ou o diâmetro sistólico do VE ≥ 40 mm; considerar também com fibrilação atrial ou hipertensão pulmonar.",
+    "Vasodilatadores e diuréticos tratam a congestão, sem tratar a causa mecânica; anticoagular se houver fibrilação atrial.",
+    "<b>Secundária:</b> tratamento otimizado da insuficiência cardíaca, ressincronização quando indicada e revascularização; reparo percutâneo borda a borda em casos selecionados."
+   ]
+  }
+ }
+}
